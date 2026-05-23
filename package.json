@@ -1,0 +1,9 @@
+{
+  "name": "scmp-whatsapp-digest",
+  "version": "1.0.0",
+  "main": "send_news.js",
+  "dependencies": {
+    "twilio": "^5.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}
